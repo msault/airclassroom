@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_oqy_kqn_5x">
+    <title>Booking a Room</title>
+    <shortdesc>When you book a room with AirClassroomBNB, it’s important to remember that you’re requesting to use someone else’s classroom. Now that you’ve gotten to know us, we’d like to get to know you, too! </shortdesc>
+    <taskbody>
+        
+        <steps>
+            <step>
+                <cmd> <b>Complete</b> your AirClassroomBNB profile on the website by including photos and any references you may have.</cmd>
+            </step>
+            <step>
+                <cmd> <b>Ensure</b> the classroom you want is available for rent by checking the dates you’d like to check in and out and indicating the number of guests you plan on having,</cmd>
+            </step>
+            <step>
+                <cmd>Click the <b>Request to Book</b> button to send a reservation request to the host.</cmd>  
+                <substeps>
+                    <substep>
+                        <cmd>The host will typically respond within 24 hours.</cmd>
+                    </substep>
+                     
+                </substeps>               
+            </step>
+        </steps>
+    </taskbody>
+</task>
+
