@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_uzh_hk3_qx">
+  <title>Amenities</title>
+  <shortdesc>The following amenities are available either in the room elsewhere in the building:  </shortdesc>
+  <refbody>
+    <section>
+      <title>In-Room</title>
+      <simpletable>
+        <strow>
+          <stentry>Heating</stentry>
+          <stentry>Air Conditioner</stentry>
+          <stentry>Wireless Internet</stentry>
+          <stentry>Laptop-friendly Workspace</stentry>
+          <stentry>Cable TV</stentry>
+          <stentry>Family/Child Friendly</stentry>
+          <stentry>Projector</stentry>
+          <stentry>Surround-sound Speakers
+          </stentry>
+        </strow>
+      </simpletable>
+    </section>
+    <section>
+      <title>In-Building</title>
+      <simpletable>
+        <strow>
+          <stentry>Elevator Access</stentry>
+          <stentry>Air Conditioner</stentry>
+          <stentry>Wireless Internet</stentry>
+          <stentry>Laptop-friendly Workspace</stentry>
+          <stentry>Heating</stentry>
+          <stentry>Kitchen</stentry>
+          <stentry>Ice Cream Machine</stentry>
+        </strow>
+      </simpletable>
+    </section>
+    
+  </refbody>
+  
+</reference>
+
