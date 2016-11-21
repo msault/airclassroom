@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_uzh_hk3_qx">
+  <title>House Rules</title>
+  <shortdesc>While we want you to have the most comfortable and welcoming experience you can during your time at Shanks Hall,
+    there are a number of house rules that must be followed in order to keep things running smoothly. </shortdesc>
+  <refbody>
+    <section>
+      <title>Check In</title>
+      <p>After 8 AM</p>
+    </section>
+    <section>
+      <title>Check Out</title>
+      <p>Before 9 PM</p>
+    </section>
+    <section>
+      <title>Smoking</title>
+      <p>Shanks Hall is a smoke-free environment, so we ask that you wait until you are 20 feet away from the building to partake.</p>
+    </section>
+    <section>
+      <title>Pets</title>
+      <p> While animals are normally prohibited in any building at Virginia Tech, the following may be brought in if the owner
+        gives written consent”
+        <simpletable>
+          <strow>
+            <stentry>fish</stentry>
+            <stentry>classroom additions, such as small rodents</stentry>
+            <stentry>service animals</stentry>
+          </strow>
+        </simpletable></p>
+    </section>
+  </refbody>
+  
+</reference>
+
+
